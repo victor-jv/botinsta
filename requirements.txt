@@ -1,2 +1,3 @@
 instagrapi
 pydrive
+Pillow>=8.1.1
